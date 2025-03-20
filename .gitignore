@@ -21,6 +21,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Media files
+*.mp4
+*.mov
+*.avi
+*.webm
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
